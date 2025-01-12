@@ -26,30 +26,39 @@ bash "${SCRIPT_DIR}/${prompt[$random]}"
 
 ![Dig Dug](/images/digdug.png)
 
-Adapted from: **thevdude** - Source: **http://crunchbang.org/forums/viewtopic.php?pid=144700#p144700**
+Adapted from: **thevdude**
+Source: **http://crunchbang.org/forums/viewtopic.php?pid=144700#p144700**
 
 #### Invaders
 
 ![Invaders](/images/invaders.png)
 
-Adapted from: **lolilolicon** - Source: **http://crunchbanglinux.org/forums/post/126921/#p126921**
+Adapted from: **lolilolicon**
+Source: **http://crunchbanglinux.org/forums/post/126921/#p126921**
 
 #### PacMan
 
 ![PacMan](/images/pacman.png)
 
-Adapted from: **pfh** - Source: **http://crunchbang.org/forums/viewtopic.php?pid=144481#p144481**
+Adapted from: **pfh**
+Source: **http://crunchbang.org/forums/viewtopic.php?pid=144481#p144481**
 
 #### Rally
 
 ![Rally](/images/rally.png)
 
-Adapted from: **pfh** - Source: **http://crunchbang.org/forums/viewtopic.php?pid=143700#p143700**
+Adapted from: **pfh**
+Source: **http://crunchbang.org/forums/viewtopic.php?pid=143700#p143700**
 
 #### Tanks
 
 ![Tanks](/images/tanks.png)
 
-Adapted from: **muzieca** - Source: **http://crunchbang.org/forums/viewtopic.php?pid=127023#p127023**
+Adapted from: **muzieca**
+Source: **http://crunchbang.org/forums/viewtopic.php?pid=127023#p127023**
 
-Scripts use initializing mod by **lolilolicon** from Archlinux, gallery source **Derek Taylor** - Source: **https://gitlab.com/dwt1/shell-color-scripts**
+Other Credits:
+
+Use initializing mod by **lolilolicon** from Archlinux. 
+
+Gallery source **Derek Taylor** - Source: **https://gitlab.com/dwt1/shell-color-scripts**
