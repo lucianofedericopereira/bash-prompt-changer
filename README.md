@@ -24,11 +24,20 @@ bash "${SCRIPT_DIR}/${prompt[$random]}"
 
 #### Dig Dug
 
+![Dig Dug](/images/digdug.png)
+
 #### Invaders
+
+![Dig Dug](/images/invaders.png)
 
 #### PacMan
 
+![PacMan](/images/pacman.png)
+
 #### Rally
+
+![Rally](/images/rally.png)
 
 #### Tanks
 
+![Tanks](/images/tanks.png)
