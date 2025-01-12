@@ -1,0 +1,6 @@
+#!/bin/bash
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+clear
+random=$(shuf -i 0-4 -n 1)
+prompt=("digdug" "invaders" "pacman" "rally" "tanks")
+bash "${SCRIPT_DIR}/${prompt[$random]}"
