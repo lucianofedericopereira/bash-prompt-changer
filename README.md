@@ -10,3 +10,25 @@
 - Enhance your CLI experience with dynamic and unique prompts.
 
 Whether you're looking to make your terminal aesthetically pleasing or seeking productivity-enhancing prompt features, the Bash Prompt Showcase Changer has got you covered!
+
+```bash
+#!/bin/bash
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+clear
+random=$(shuf -i 0-4 -n 1)
+prompt=("digdug" "invaders" "pacman" "rally" "tanks")
+bash "${SCRIPT_DIR}/${prompt[$random]}"
+```
+
+### Gallery
+
+#### Dig Dug
+
+#### Invaders
+
+#### PacMan
+
+#### Rally
+
+#### Tanks
+
