@@ -20,45 +20,50 @@ prompt=("digdug" "invaders" "pacman" "rally" "tanks")
 bash "${SCRIPT_DIR}/${prompt[$random]}"
 ```
 
-### Gallery
+## Gallery
 
-#### Dig Dug
+### Dig Dug
 
 ![Dig Dug](/images/digdug.png)
 
 Adapted from: **thevdude**
+
 Source: **http://crunchbang.org/forums/viewtopic.php?pid=144700#p144700**
 
-#### Invaders
+### Invaders
 
 ![Invaders](/images/invaders.png)
 
 Adapted from: **lolilolicon**
+
 Source: **http://crunchbanglinux.org/forums/post/126921/#p126921**
 
-#### PacMan
+### PacMan
 
 ![PacMan](/images/pacman.png)
 
 Adapted from: **pfh**
+
 Source: **http://crunchbang.org/forums/viewtopic.php?pid=144481#p144481**
 
-#### Rally
+### Rally
 
 ![Rally](/images/rally.png)
 
 Adapted from: **pfh**
+
 Source: **http://crunchbang.org/forums/viewtopic.php?pid=143700#p143700**
 
-#### Tanks
+### Tanks
 
 ![Tanks](/images/tanks.png)
 
 Adapted from: **muzieca**
+
 Source: **http://crunchbang.org/forums/viewtopic.php?pid=127023#p127023**
 
-Other Credits:
 
-Use initializing mod by **lolilolicon** from Archlinux. 
+### Other Credits:
 
-Gallery source **Derek Taylor** - Source: **https://gitlab.com/dwt1/shell-color-scripts**
+- **lolilolicon** Use initializing mod from Archlinux. 
+- **Derek Taylor** Gallery Source **https://gitlab.com/dwt1/shell-color-scripts**
